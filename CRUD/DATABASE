@@ -1,0 +1,9 @@
+CREATE DATABASE TP10;
+USE TP10;
+
+CREATE TABLE exercice (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titre VARCHAR(100) NOT NULL,
+    auteur VARCHAR(50) NOT NULL,
+    date_creation DATE NOT NULL
+);
