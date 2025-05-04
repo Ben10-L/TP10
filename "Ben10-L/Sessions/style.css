@@ -1,0 +1,12 @@
+
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 50px auto; padding: 20px; }
+        .logout { margin-top: 20px; }
+        a { color: #d32f2f; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+
+        .error { color: red; margin-bottom: 15px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 5px; }
+        input { width: 100%; padding: 8px; box-sizing: border-box; }
+        button { padding: 10px 15px; background-color: #4CAF50; color: white; border: none; cursor: pointer; }
